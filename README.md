@@ -8,6 +8,11 @@ You can safely delete this README.md file or change it for your own project. Ple
 
 ## Gitpod Reminders
 
+To save:
+git add .
+git commit -m '<COMMIT MESSAGE>'
+git push
+
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
 `python3 -m http.server`
